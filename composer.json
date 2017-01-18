@@ -1,6 +1,6 @@
 {
     "name": "estoreinfo\/report",
-    "description": "",
+    "description": "e-Storeinfo Performance Report",
     "require": {
         "php": "~5.5.0|~5.6.0|~7.0.0"
     },
