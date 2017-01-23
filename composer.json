@@ -1,6 +1,6 @@
 {
     "name": "estoreinfo\/report",
-    "description": "e-Storeinfo Performance Report",
+    "description": "e-Storeinfo - Expert Business Review",
     "require": {
         "php": ">=5.5.9"
     },
