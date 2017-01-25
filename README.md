@@ -33,7 +33,7 @@ Gain full control over the most essential pieces of information concerning your 
 
 e-Store info's free account allows you to answer and respond to customers' reviews
 
- ## Premium Services
+## Premium Services
  
 ### Customer Relations Management Tools
 
@@ -50,7 +50,7 @@ e-Store info's free account allows you to answer and respond to customers' revie
 
 ![estoreinfo](http://estoreinfo.com/img/ss/estore-4.png)
 
- ### Expert Review
+### Expert Review
  
  An option to request an expert company review. This unique service is designed to deliver professional view of your business. This is an in depth review of your business written by an industry's expert. This review can be made public upon request and be used as a positive content and traffic driver to your site.
  
