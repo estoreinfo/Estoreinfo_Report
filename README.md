@@ -1,5 +1,5 @@
 <div>
-<p>e-Store Info helps e-commerce businesses manage their online reputation across the web to improve conversion rates by up to 100%. We utilize unique algorithm to process and evaluate business data based on predetermined performance metrics including: volume of orders, shipping and cancellation rates. e-Store offers its basic version of integration for Magento businesses <b>FREE</b>, while premium features are listed below for an additional cost. <br /> Basic: <b>Free</b>, Bronze: <b>$59</b>, Silver: <b>$99</b>, Gold: <b>$149</b>, Platinum: <b>$199</b>, Diamond: <b>$299</b> </p>
+<p>e-Store Info helps e-commerce businesses manage their online reputation across the web to improve conversion rates by up to 100%. We utilize unique algorithm to process and evaluate business data based on predetermined performance metrics including: volume of orders, shipping and cancellation rates. e-Store offers its basic version of integration for Magento businesses <b>FREE</b>, while premium features are listed below for an additional cost. <br /> Basic: <b>Free</b>, Bronze: <b>$59</b>, Silver: <b>$99</b>, Gold: <b>$149</b>, Platinum: <b>$199</b>, Diamond: <b>$299</b> </p></div>
 
 ## Installation
 
@@ -9,7 +9,7 @@ Install the latest version with
 $ composer require estoreinfo/report
 ```
 
-<p><a href="http://estoreinfo.com/pricing">Don't miss the opportunity to create your company's profile on our platform today!</a></p><br />
+<div><p><a href="http://estoreinfo.com/pricing">Don't miss the opportunity to create your company's profile on our platform today!</a></p><br />
 <p><img src="http://estoreinfo.com/img/ss/estore-1.png" alt="" width="699" height="378" /></p>
 <p>On e-Store info every company has the power to manage its own online profile. A company's owner is able to engage with its customers and provide them with essential information such as its operation size, online ranking, time in business and overall performance. These pieces of data along with consumers’ objective reviews are evaluated together to generate the most accurate assessment of your business. Based on past experience businesses who used our services have seen an immense increase in conversion rates.</p><br />
 <p><img src="http://estoreinfo.com/img/ss/estore-2.png" alt="" width="575" height="391" /></p>
