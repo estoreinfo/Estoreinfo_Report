@@ -15,7 +15,7 @@
 	    }
 	],
     "license": [
-        "Proprietary"
+        "MIT"
     ],
     "autoload": {
         "files": [
